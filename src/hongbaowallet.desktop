@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=hongbao Wallet
+Comment=hongbao wallet
+Exec=hongbao wallet %U
+Terminal=false
+Type=Application
+Icon=hongbao
+MimeType=x-scheme-handler/hongbao;
+Categories=Office;Finance;
+Name[en_CA]=hongbao wallet

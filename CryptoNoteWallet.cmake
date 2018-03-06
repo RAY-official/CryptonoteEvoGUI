@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "Hongbao")
+set(CN_CURRENCY_DISPLAY_NAME "hongbao")
+set(CN_CURRENCY_TICKER "hb")
+set(CN_VERSION 2.1.4)
