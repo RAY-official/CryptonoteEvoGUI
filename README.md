@@ -1,14 +1,14 @@
 # Installation instructions
-## HongBaoWallet (GUI wallet with miner)
+## Cryptonote (GUI wallet with miner)
 
 ## Install for Ubuntu 16|14:
 1. download repo from github
 ```
-git clone http://www.github.com/hongbaoblockchain/hongbaowallet.git
+git clone https://github.com/FndNur1Labs/CryptonoteEvoGUI.git
 ```
-2. change directory to hongbaowallet
+2. change directory to CryptonoteEvoGUI
 ```
-cd hongbaowallet
+cd CryptonoteEvoGUI
 ```
 3. change mode install.sh
 ```
@@ -56,11 +56,11 @@ sudo apt install git
 ```
 9. install HongBaoWallet
 ```
-git clone https://github.com/hongbaoblockchain/hongbaowallet.git
+git clone https://github.com/FndNur1Labs/CryptonoteEvoGUI.git
 ```
 10. change directory 
 ```
-cd hongbaowallet
+cd CryptonoteEvoGUI
 ```
 11. change mode install.sh
 ```
@@ -82,6 +82,9 @@ mkdir build && cd build && cmake .. && make
 If you have any issues contact us on our [TelegramChannel](https://t.me/hongbaoblockchain_support)
 Make sure you follow instructions first and put effort into why its not working. 
 Its usually human error skipping a step or typo.
+
+
+Credits By Ecolite[Our CryptonoteEvo Team]
 
 
 
